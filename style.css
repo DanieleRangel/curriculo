@@ -1,0 +1,37 @@
+:root {
+    --azul: #1E90FF;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    padding: 1rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: var(--azul);
+}
+
+span {
+    font-size: 32px;
+    font-weight: bold;
+    color: var(--azul);
+    margin-right: 10px;
+}
+
+.list-none li {
+    list-style: none;
+}
+
+em {
+    font-weight: bold;
+    color: var(--azul);
+}
